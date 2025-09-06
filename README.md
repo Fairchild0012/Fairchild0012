@@ -5,8 +5,6 @@
 ---
 
 
-![Fairchild's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fairchild0012&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fairchild0012)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@godsdaygogdocs)  

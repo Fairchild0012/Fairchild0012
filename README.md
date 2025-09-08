@@ -1,5 +1,9 @@
 # Hi there, I'm Fairchild 👋  
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Fairchild0012&color=blueviolet)
+
+
 🚀 **Technical Writer in Training | Markdown & GitHub Enthusiast | Future Open Source Contributor**  
 
 ---
@@ -25,9 +29,31 @@
 ![Docs](https://img.shields.io/badge/Docs-Writing-blue?style=for-the-badge)  
 
 ---
-
 ## 📊 GitHub Stats
-![Fairchild's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fairchild0012&show_icons=true&theme=radical)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fairchild0012&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fairchild0012&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairchild0012&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fairchild0012&theme=radical&row=1&column=8" alt="GitHub Trophies"/>
+</p>
+
+
+
+## 📝 Latest Medium Articles
+<!-- MEDIUM-LIST:START -->
+- [How to Install the ChatGPT App on Your Smartphone](https://medium.com/@godsdaygogdocs/how-to-install-the-chatgpt-app-on-your-smartphone-0d35baf163b8)
+- [HOW TO CONVERT A WORD DOCUMENT TO PDF (SIMPLE GUIDE)](https://medium.com/@godsdaygogdocs/how-to-convert-a-word-document-to-pdf-simple-guide-36e645381482)
+<!-- MEDIUM-LIST:END -->
+
+➡️ *I write about technical writing, GitHub, and productivity. Follow me on [Medium](https://medium.com/@godsdaygogdocs) to see all articles.*
+
 
 ---
 
@@ -37,5 +63,24 @@
 
 ---
 
+
+## 📬 Connect With Me
+- Medium: [@godsdaygogdocs](https://medium.com/@godsdaygogdocs)
+- GitHub: [Fairchild0012](https://github.com/Fairchild0012)
+
+
 ## 📬 Contact Me
 📧 Email: **godsdayignatius0012@gmail.com**  
+
+---
+
+
+## 🚀 Pinned Projects
+
+- [**My First Markdown**](https://github.com/Fairchild0012/my-first-markdown)  
+  A beginner-friendly repo showing my first steps with Markdown and GitHub.  
+
+- [**Fairchild0012 Profile Repo**](https://github.com/Fairchild0012/Fairchild0012)  
+  My GitHub profile repository with badges, links, and portfolio setup.
+
+ 

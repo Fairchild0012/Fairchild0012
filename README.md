@@ -57,12 +57,6 @@
 
 ---
 
-## 📝 Latest Medium Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 
 ## 📬 Connect With Me
 - Medium: [@godsdaygogdocs](https://medium.com/@godsdaygogdocs)
@@ -72,7 +66,6 @@
 ## 📬 Contact Me
 📧 Email: **godsdayignatius0012@gmail.com**  
 
----
 
 
 ## 🚀 Pinned Projects

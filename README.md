@@ -50,6 +50,7 @@
 <!-- MEDIUM-LIST:START -->
 - [How to Install the ChatGPT App on Your Smartphone](https://medium.com/@godsdaygogdocs/how-to-install-the-chatgpt-app-on-your-smartphone-0d35baf163b8)
 - [HOW TO CONVERT A WORD DOCUMENT TO PDF (SIMPLE GUIDE)](https://medium.com/@godsdaygogdocs/how-to-convert-a-word-document-to-pdf-simple-guide-36e645381482)
+- [How I Wrote My First Professional README on GitHub](https://medium.com/@godsdaygogdocs/how-i-wrote-my-first-professional-readme-on-github-c6a0e535481f)
 <!-- MEDIUM-LIST:END -->
 
 ➡️ *I write about technical writing, GitHub, and productivity. Follow me on [Medium](https://medium.com/@godsdaygogdocs) to see all articles.*

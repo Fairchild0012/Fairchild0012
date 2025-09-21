@@ -52,6 +52,7 @@
 - [HOW TO CONVERT A WORD DOCUMENT TO PDF (SIMPLE GUIDE)](https://medium.com/@godsdaygogdocs/how-to-convert-a-word-document-to-pdf-simple-guide-36e645381482)
 - [How I Wrote My First Professional README on GitHub](https://medium.com/@godsdaygogdocs/how-i-wrote-my-first-professional-readme-on-github-c6a0e535481f)
 - [Top 5 Free Tools Every Beginner Tech Writer Should Know](https://medium.com/@godsdaygogdocs/top-5-free-tools-every-beginner-tech-writer-should-know-4eee8f266654)
+- [Getting started with Notion:A Beginner's Guide](https://medium.com/@godsdaygogdocs/getting-started-with-notion-a-beginners-guide-19293b029b07)
 <!-- MEDIUM-LIST:END -->
 
 ➡️ *I write about technical writing, GitHub, and productivity. Follow me on [Medium](https://medium.com/@godsdaygogdocs) to see all articles.*
